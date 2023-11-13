@@ -1,0 +1,4 @@
+C:\Users\Usuario\Desktop\2DAM\Desarrollo_de_Interfaces\UD2T4SanJuanThompsonJosephLuca\UD2T4SanJuanThompsonJosephLuca\obj\Debug\net6.0\UD2T4SanJuanThompsonJosephLuca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\2DAM\Desarrollo_de_Interfaces\UD2T4SanJuanThompsonJosephLuca\UD2T4SanJuanThompsonJosephLuca\obj\Debug\net6.0\UD2T4SanJuanThompsonJosephLuca.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\2DAM\Desarrollo_de_Interfaces\UD2T4SanJuanThompsonJosephLuca\UD2T4SanJuanThompsonJosephLuca\obj\Debug\net6.0\UD2T4SanJuanThompsonJosephLuca.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\2DAM\Desarrollo_de_Interfaces\UD2T4SanJuanThompsonJosephLuca\UD2T4SanJuanThompsonJosephLuca\obj\Debug\net6.0\UD2T4SanJuanThompsonJosephLuca.csproj.CoreCompileInputs.cache
