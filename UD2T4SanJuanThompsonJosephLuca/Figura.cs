@@ -1,6 +1,6 @@
 ﻿namespace UD2T4SanJuanThompsonJosephLuca
 {
-    internal class Figura
+    abstract class Figura
     {
         /*private float perimetro;
         private float area;
@@ -21,16 +21,8 @@
             get { return area; } set { area = value; }
         }*/
 
-        public virtual float Perimetro()
-        {
-            float perimetro = 0;
-            return perimetro; 
-        }
+        public abstract float Perimetro();
 
-        public virtual float Area()
-        {
-            float area = 0;
-            return area; 
-        }
+        public abstract float Area();
     }
 }
